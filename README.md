@@ -1,4 +1,4 @@
-**Project background and context**
+**Project background and context:**
 Falcon 9 cost 62 million dollars whereas other cost 165 million
 SpaceX's unique ability to reuse the first stage  of the Falcon 9 rocket has significantly  reduced launch costs compared to traditional  providers.
 
